@@ -124,4 +124,7 @@ else:
     print "Wrong"
 
 
-print "\nYou got %d out of 12 correct" % (count)
+print "\nYou got %d out of 12 correct." % (count)
+if count <=6:
+	print "Better luck next time!"
+else: print "Good job!"
