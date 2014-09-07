@@ -8,7 +8,7 @@ count = 0
 Q = ["What is a non metal that remains liquid at room temperature? ",
      "Chlorophyll is a naturally occurring compound. Which central metal is it? ",
      "What is used in pencils in order to write? ",
-     "Which of the following metals forms an amalgam/mixture with other metals? ",
+     "Which metal forms an amalgam/mixture with other metals? ",
      "The gas usually filled in the electric light bulb is: ",
      "What is used as a moderator in a nuclear reactor? ",
      "Isotopes are separated by: ",
